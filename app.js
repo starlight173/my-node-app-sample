@@ -8,4 +8,5 @@ app.get('/', function (req, res) {
 
 app.listen(3000);
 
-console.log('Running on http://localhost:3000');
+// console.log('Running on http://localhost:3000');
+console.log('Running on http://45.32.62.137:3000');
